@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: adeboye7306/go-web-app
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "20208108767"
 
 ingress:
   enabled: false
